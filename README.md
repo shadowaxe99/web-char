@@ -1,11 +1,15 @@
-# <img src="./realtime_ai_character/static/realchar.svg" height="24px" style="padding-top:4px"/>RealChar. - Your Realtime AI Character
+# <img src="./realtime_ai_character/static/realchar.svg" height="24px" style="padding-top:4px"/>Elysium Innovations - Your AI Agentic Network
+
+[Elysium Innovations Investor Pitch Deck](https://elysium-pitch.pages.dev/)
+
+[Elysium Innovations Investor Pitch Deck](https://elysium-pitch.pages.dev/)
 <br/>
 <div align="center">
-    <img src="./realtime_ai_character/static/logo.png" alt="RealChar-logo" width="80%"  style="padding: 40px"/>
+    <img src="./realtime_ai_character/static/logo.png" alt="ElysiumInnovations-logo" width="80%"  style="padding: 40px"/>
 </div>
 <br/>
 <p align="center">
-  🎙️🤖<em>Create, customize and talk to your AI Character/Companion in realtime</em>🎙️🤖
+  🌟🚀<em>Unlock the Power of AI Agentic Networks</em>🚀🌟
 </p>
 
 <div align="center">
@@ -14,13 +18,13 @@
     </a>
     <a href="https://twitter.com/agishaun">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/agishaun?style=for-the-badge" height="20">
-    <a href="https://github.com/Shaunwei/RealChar">
-    <img alt="GitHub" src="https://img.shields.io/github/stars/Shaunwei/RealChar?style=for-the-badge&color=gold" height="20">
+    <a href="https://github.com/Shaunwei/ElysiumInnovations">
+    <img alt="GitHub" src="https://img.shields.io/github/stars/Shaunwei/ElysiumInnovations?style=for-the-badge&color=gold" height="20">
     </a>
-    <a href="https://github.com/Shaunwei/RealChar/commits/main">
-    <img alt="GitHub" src="https://img.shields.io/github/last-commit/Shaunwei/RealChar/main?style=for-the-badge" height="20">
+    <a href="https://github.com/Shaunwei/ElysiumInnovations/commits/main">
+    <img alt="GitHub" src="https://img.shields.io/github/last-commit/Shaunwei/ElysiumInnovations/main?style=for-the-badge" height="20">
     </a>
-    <a href="https://github.com/Shaunwei/RealChar/blob/main/README.md" target="_blank">
+    <a href="https://github.com/Shaunwei/ElysiumInnovations/blob/main/README.md" target="_blank">
     <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=green&style=for-the-badge" alt="License" height="20">
     </a>
     <a href="https://hub.docker.com/repository/docker/shaunly/real_char/general" target="_blank">
@@ -29,17 +33,17 @@
 </div>
 
 ## ✨ Demo
-Try our site at [RealChar.ai](https://realchar.ai/)
+Try our site at [ElysiumInnovations.ai](https://realchar.ai/)
 
 (We are also beta-testing our iOS mobile app📱! Sign up [here](https://testflight.apple.com/join/JA6p9sZQ))
 
 ### Demo 1 - with AI Elon about cage fight!
 
-https://github.com/Shaunwei/RealChar/assets/5101573/5de0b023-6cf3-4947-84cb-596f429d109e
+https://github.com/Shaunwei/ElysiumInnovations/assets/5101573/5de0b023-6cf3-4947-84cb-596f429d109e
 
 ### Demo 2 - with AI Raiden about AI and "real" memory
 
-https://github.com/Shaunwei/RealChar/assets/5101573/62a1f3d1-1166-4254-9119-97647be52c42
+https://github.com/Shaunwei/ElysiumInnovations/assets/5101573/62a1f3d1-1166-4254-9119-97647be52c42
 
 
 
@@ -55,7 +59,7 @@ __Demo settings: Web, GPT4, ElevenLabs with voice clone, Chroma, Google Speech t
 
 ## 🔬 Tech stack
 <div align="center">
-    <img src="https://storage.googleapis.com/assistly/static/realchar/techstack.png" alt="RealChar-tech-stack" width="100%"  style="padding: 20px"/>
+    <img src="https://storage.googleapis.com/assistly/static/realchar/techstack.png" alt="ElysiumInnovations-tech-stack" width="100%"  style="padding: 20px"/>
 </div>
 
 - ✅**Web**: [Vanilla JS](http://vanilla-js.com/), [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
@@ -158,7 +162,7 @@ ELEVEN_LABS_API_KEY=<api key>
 ## 💿 Installation via Python
 - **Step 1**. Clone the repo
    ```sh
-   git clone https://github.com/Shaunwei/RealChar.git && cd RealChar
+   git clone https://github.com/Shaunwei/ElysiumInnovations.git && cd ElysiumInnovations
     ```
 - **Step 2**. Install requirements
     - Install [portaudio](https://people.csail.mit.edu/hubert/pyaudio/) and [ffmpeg](https://ffmpeg.org/download.html) for audio
@@ -266,12 +270,12 @@ And it should work out of the box.
 - [x] Allow selecting different LLM
 - [x] Add ability to add community characters
 
-## 🫶 Contribute to RealChar
+## 🫶 Contribute to ElysiumInnovations
 Please check out our [Contribution Guide](contribute.md)!
 
 ## 💪 Contributors
-<a href="https://github.com/Shaunwei/RealChar">
-  <img src="https://contrib.rocks/image?repo=Shaunwei/RealChar" />
+<a href="https://github.com/Shaunwei/ElysiumInnovations">
+  <img src="https://contrib.rocks/image?repo=Shaunwei/ElysiumInnovations" />
 </a>
 
 ## 🎲 Community

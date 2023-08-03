@@ -12,11 +12,11 @@ import './style.css';
 const Footer = () => (
     <footer>
         <div className="rounded-social-buttons">
-            <a className="social-button github" href="https://github.com/Shaunwei/RealChar" target="_blank" rel="noreferrer"><FaGithub /></a>
+            <a className="social-button github" href="https://github.com/Shaunwei/ElysiumInnovations" target="_blank" rel="noreferrer"><FaGithub /></a>
             <a className="social-button discord" href="https://discord.gg/e4AYNnFg2F" target="_blank" rel="noreferrer"><FaDiscord /></a>
             <a className="social-button twitter" href="https://twitter.com/agishaun" target="_blank" rel="noreferrer"><FaTwitter /></a>
         </div>
-        <p className="copyright">Copyright © 2023 RealChar. All rights reserved. Any AI character's statements are fictional and don't represent actual beliefs or opinions.</p>
+        <p className="copyright">Copyright © 2023 ElysiumInnovations. All rights reserved. Any AI character's statements are fictional and don't represent actual beliefs or opinions.</p>
     </footer>
 );
 

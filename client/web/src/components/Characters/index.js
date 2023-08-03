@@ -116,7 +116,7 @@ const Characters = ({ isMobile, characterGroups, selectedCharacter, setSelectedC
                     style: { backgroundColor: "#050E2E", color: "white", borderColor: "#3E496D", borderStyle: "solid" },
                 }}
             >
-                <DialogTitle id="dialog-title"> Select partner from RealChar community </DialogTitle>
+                <DialogTitle id="dialog-title"> Select partner from ElysiumInnovations community </DialogTitle>
                 <DialogContent>
                     <Grid container spacing={2}>
                     {characterGroups.map(character => {

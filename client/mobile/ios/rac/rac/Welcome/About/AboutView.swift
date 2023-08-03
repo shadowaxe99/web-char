@@ -17,7 +17,7 @@ struct AboutView: View {
 
                         Spacer(minLength: 24)
 
-                        Text("RealChar")
+                        Text("ElysiumInnovations")
                             .font(
                                 Font.custom("Prompt", size: 16).weight(.semibold)
                             )
@@ -42,7 +42,7 @@ struct AboutView: View {
 
                         Spacer(minLength: 40)
 
-                        Text("RealChar is Open Source")
+                        Text("ElysiumInnovations is Open Source")
                             .font(
                                 Font.custom("Prompt", size: 16).weight(.semibold)
                             )
@@ -51,7 +51,7 @@ struct AboutView: View {
                 }
 
                 CtaButton(style: .primary, action: {
-                    UIApplication.shared.open(URL(string: "https://github.com/Shaunwei/RealChar")!)
+                    UIApplication.shared.open(URL(string: "https://github.com/Shaunwei/ElysiumInnovations")!)
                 }, text: "Contribute")
             }
             .padding(.bottom, geometry.safeAreaInsets.bottom > 0 ? 0 : 20)

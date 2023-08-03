@@ -46,7 +46,7 @@ async def get_current_user(request: Request):
 
 @router.get("/status")
 async def status():
-    return {"status": "ok", "message": "RealChar is running smoothly!"}
+    return {"status": "ok", "message": "ElysiumInnovations is running smoothly!"}
 
 
 @router.get("/", response_class=HTMLResponse)

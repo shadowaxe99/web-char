@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""A CLI for building an running RealChar project locally."""
+"""A CLI for building an running ElysiumInnovations project locally."""
 import click
 import os
 import subprocess

@@ -219,7 +219,7 @@ struct SettingsView: View {
                 }
 
                 CtaButton(style: .secondary, action: {
-                    openMail(emailTo: "realchar-dev@googlegroups.com", subject: "Feedback for RealChar", body: "Hi RealChar team,\n\n\n")
+                    openMail(emailTo: "realchar-dev@googlegroups.com", subject: "Feedback for ElysiumInnovations", body: "Hi ElysiumInnovations team,\n\n\n")
                 }, text: "Leave Beta feedback")
             }
             .padding(.bottom, geometry.safeAreaInsets.bottom > 0 ? 0 : 20)

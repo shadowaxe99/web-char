@@ -40,7 +40,7 @@ character_catalog
 
 ### new Character PR template
 
-- This PR added a new character `Reflection Pi`, Please use [PR#30](https://github.com/Shaunwei/RealChar/pull/30) as a template
+- This PR added a new character `Reflection Pi`, Please use [PR#30](https://github.com/Shaunwei/ElysiumInnovations/pull/30) as a template
 
 
 ### Character checklist

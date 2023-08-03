@@ -474,7 +474,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = rac/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = RealChar;
+				INFOPLIST_KEY_CFBundleDisplayName = ElysiumInnovations;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "You can send voice message to your favorite realtime AI chacater.";
 				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "You can send voice message to your favorite realtime AI chacater.";
@@ -509,7 +509,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = rac/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = RealChar;
+				INFOPLIST_KEY_CFBundleDisplayName = ElysiumInnovations;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "You can send voice message to your favorite realtime AI chacater.";
 				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "You can send voice message to your favorite realtime AI chacater.";
