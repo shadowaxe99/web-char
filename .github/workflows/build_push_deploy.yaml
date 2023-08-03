@@ -25,7 +25,7 @@ jobs:
         tags: shaunly/real_char:latest
 
     - name: Install and configure kubectl
-      uses: azure/setup-kubectl@v1
+      uses: azure/setup-kubectl@v3
       with:
         version: 'v1.20.0'
 
